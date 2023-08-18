@@ -5,6 +5,7 @@ import PomPages.SkillraryLogingpage;
 import PomPages.SkillraryDemologinpage;
 import PomPages.TestingPage;
 
+
 public class TestCase2  extends BaseClass{
 	@Test
 	 public void testcase2() throws Throwable {

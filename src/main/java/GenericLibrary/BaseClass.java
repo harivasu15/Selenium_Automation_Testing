@@ -9,6 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.edge.*;
 
+
 public class BaseClass {
 	public WebDriver driver;
 	public PropertyFile pdata = new PropertyFile();

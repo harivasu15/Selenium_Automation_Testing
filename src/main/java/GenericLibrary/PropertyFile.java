@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.Properties;
 import java.io.FileNotFoundException;
 
+
 public class PropertyFile {
 	public String getpropertydata(String  key) throws Throwable {
 		Properties p = new Properties();

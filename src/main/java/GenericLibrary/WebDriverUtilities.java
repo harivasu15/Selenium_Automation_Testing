@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.JavascriptExecutor;
 
 
+
 public class WebDriverUtilities<JavascriptExecutor> {
 	// Handling drop down
 	public void dropdown(WebElement ele,String text) {
